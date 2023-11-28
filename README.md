@@ -6,3 +6,5 @@ Live demo - [https://srikanth-kandi.github.io/react-blogs/](https://srikanth-kan
   - using Path Parameters
 - Path Params
   - match
+
+Check more info on [resources.md](./resources.md)

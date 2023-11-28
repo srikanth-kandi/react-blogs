@@ -10,7 +10,7 @@ import NotFound from './components/NotFound'
 import './App.css'
 
 const App = () => (
-  <BrowserRouter>
+  <BrowserRouter basename="/react-blogs">
     <Header />
     <Switch>
       <Route exact path="/" component={BlogsList} />

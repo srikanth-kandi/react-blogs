@@ -1,4 +1,6 @@
-# Routing using react-router Part 3
+# Blogs with path parameters on ReactJS ⚛
+
+Live demo - [https://srikanth-kandi.github.io/react-blogs/](https://srikanth-kandi.github.io/react-blogs/)
 
 - Navigating to Specific Blog
   - using Path Parameters
